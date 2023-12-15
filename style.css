@@ -1,0 +1,22 @@
+.nav {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+ul {
+    list-style: none;
+}
+.nav_a {
+    text-decoration: none;
+    color: initial;
+}
+
+ul {
+    display: flex;
+    gap: 8px;
+}
+.nav-links {
+    justify-content: flex-end;
+    background: blue;
+}
